@@ -2,7 +2,7 @@
 import java.util.Scanner;
 import java.util.concurrent.ThreadLocalRandom;
 
-public class GuessNumberGame {
+public class guess_number {
 
   private static final int MIN_NUMBER = 1;
   private static final int MAX_NUMBER = 1000;
